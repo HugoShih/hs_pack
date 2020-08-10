@@ -1,0 +1,3 @@
+graft hs_pack
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  hs_pack/jupy *
